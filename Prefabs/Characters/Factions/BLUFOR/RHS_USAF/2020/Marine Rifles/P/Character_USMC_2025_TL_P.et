@@ -25,7 +25,7 @@ SCR_ChimeraCharacter : "{949B56034004FE8B}Prefabs/Characters/Factions/BLUFOR/RHS
      Prefab "{B47A0A12801CEBD3}Prefabs/Characters/HeadGear/Helmet_ECH/Helmet_ECH_lc_p.et"
     }
     LoadoutSlotInfo Back {
-     Prefab "{9A26D311900C33EE}Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
+     Prefab "{46D824AAD12330B2}Prefabs/Items/Equipment/Backpacks/backpack_511_rush12/Backpack_511_rush12_Coy.et"
     }
     LoadoutSlotInfo Vest {
      Prefab "{652A691C3404B99C}Prefabs/Characters/Vests/Vest_PCGen_II/Variants/Vest_PCGen_II_tako3.et"
@@ -65,9 +65,9 @@ SCR_ChimeraCharacter : "{949B56034004FE8B}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Vest/Vest_PCGen_II_tako3.et/m18_2/Pouch_Filbe_M18_2.et"
     }
     ItemsInitConfigurationItem "{65C77CD80D35D6AC}" {
-     TargetStorage "Back/FILBE_hydration_pack.et"
+     TargetStorage "Back/Backpack_511_rush12_Coy.et"
      PrefabsToSpawn {
-      "{D41D22DD1B8E921E}Prefabs/Weapons/Grenades/M18/Smoke_M18_Green.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et"
+      "{D41D22DD1B8E921E}Prefabs/Weapons/Grenades/M18/Smoke_M18_Green.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{2C935EF6F98E6354}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEAA.et"
      }
     }
    }
