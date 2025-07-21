@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{F08A4DF0AE622E4A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/ATACS/Character_RHS_RF_SSO_MG.et"
+ Name "{393715C9B024A706}Prefabs/Characters/Factions/OPFOR/GC_SEPARATIST/P/Character_GC_SEPARATIST_CrewGunner_P.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }
