@@ -7,6 +7,8 @@ SCR_ChimeraCharacter : "{F2AB46ACBA6E4182}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Rifleman (SMAW)"
+    Icon "{00B30C29FAF85E1C}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_AntiTank.edds"
+    m_Image "{F2669784D2163DD8}UI/Textures/EditorPreviews/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_AT.edds"
    }
    m_VariantData SCR_EditableEntityVariantData "{65C80B5E604A4838}" {
     m_aVariants {

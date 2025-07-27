@@ -15,6 +15,8 @@ SCR_ChimeraCharacter : "{935CAC5226824448}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Platoon Leader"
+    Icon "{5D7F0C1AB551F610}UI/Textures/MilitaryIcons/MilitaryIcons.imageset"
+    IconSetName "AR_Rank_OF-1_1st"
    }
   }
  }

@@ -4,6 +4,8 @@ SCR_ChimeraCharacter : "{CF5E9F72F151BF4F}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Team Leader"
+    Icon "{A26C465A6AE2AA17}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Leader.edds"
+    m_Image "{38B54D88E03C31AE}UI/Textures/EditorPreviews/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_TL.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -21,7 +23,7 @@ SCR_ChimeraCharacter : "{CF5E9F72F151BF4F}Prefabs/Characters/Factions/BLUFOR/RHS
     ItemsInitConfigurationItem "{61B52C4506FFE973}" {
      TargetStorage "Vest/Vest_PCGen_II_filbe.et/radio/Pouch_152_Radio.et"
      PrefabsToSpawn {
-      "{9CB82F893D614FF0}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A.et"
+      "{340C133625BB688E}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD_Multi.et"
      }
     }
    }
