@@ -12,6 +12,28 @@ SCR_ChimeraCharacter : "{54AA8E6E06148F39}Prefabs/Characters/Factions/BLUFOR/RHS
     LoadoutSlotInfo Vest {
      Prefab "{70B5348CD5387289}Prefabs/Characters/Vests/Vest_PCGen_II/Variants/Vest_PCGen_II_filbe.et"
     }
+    LoadoutSlotInfo Ears {
+     Prefab "{E3F4AFB588BF9A39}Prefabs/Characters/HeadGear/Headsets/Headset_Bowman_Elite/Headset_Bowman_Elite_01.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{68E911870B206C62}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/Pouch1/Pouch_FILBE_doubleM4_1.et"
+    }
+    ItemsInitConfigurationItem "{68E911870B20639B}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/tako2/Pouch_FILBE_doubleM4_3.et"
+    }
+    ItemsInitConfigurationItem "{68E911870B206394}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/tako/Pouch_FILBE_doubleM4_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911870B202E85}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/pouch2/Pouch_FILBE_doubleM4_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911870B202E86}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/m67/Pouch_Filbe_M67_2.et"
+    }
    }
   }
  }

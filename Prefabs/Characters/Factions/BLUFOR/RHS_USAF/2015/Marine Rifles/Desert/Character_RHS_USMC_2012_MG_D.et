@@ -12,6 +12,22 @@ SCR_ChimeraCharacter : "{D6C027EAB3EB7005}Prefabs/Characters/Factions/BLUFOR/RHS
     LoadoutSlotInfo ArmoredVest {
      Prefab "{822B66CBF331F844}Prefabs/Characters/Vests/Vest_PCGen_II/Vest_PCGen_II_base.et"
     }
+    LoadoutSlotInfo Vest {
+     Prefab "{EF06F43D51D1E7D7}Prefabs/Characters/Vests/Vest_JPC/variants/Vest_JPC_okinawa_Coy_MG.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{69070822F20FC8A0}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_Coy_MG.et/M2402/Pouch_PCGEN3_MG.et"
+    }
+    ItemsInitConfigurationItem "{69070822C8400D61}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_Coy_MG.et/m2401/Pouch_PCGEN3_MG.et"
+    }
+    ItemsInitConfigurationItem "{68E911A59F6C95D1}" {
+     TargetStorage "Back/FILBE_Backpack.et"
+    }
    }
   }
  }

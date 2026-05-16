@@ -14,5 +14,24 @@ SCR_ChimeraCharacter : "{95D901B6DA33578D}Prefabs/Characters/Factions/BLUFOR/RHS
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{68E911A40C7B81C2}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/Pouch1/Pouch_FILBE_doubleM4_1.et"
+    }
+    ItemsInitConfigurationItem "{68E911A40C7B81F9}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/tako2/Pouch_FILBE_doubleM4_3.et"
+    }
+    ItemsInitConfigurationItem "{68E911A40C7B81FF}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/tako/Pouch_FILBE_doubleM4_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911A40C7B81FC}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/pouch2/Pouch_FILBE_doubleM4_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911A40C7B81F2}" {
+     TargetStorage "Vest/Vest_PCGen_II_filbe.et/m67/Pouch_Filbe_M67_2.et"
+    }
+   }
+  }
  }
 }

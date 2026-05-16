@@ -14,5 +14,30 @@ SCR_ChimeraCharacter : "{0E1FF4C07ADE6AB6}Prefabs/Characters/Factions/BLUFOR/RHS
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{68E911AAA16B5473}" {
+     TargetStorage "Back/FILBE_Backpack.et"
+    }
+    ItemsInitConfigurationItem "{68E911AAA16B5486}" {
+     TargetStorage "Vest/Vest_PCGen_II_rifleman.et/tako2/Pouch_FILBE_doubleM4_3.et"
+    }
+    ItemsInitConfigurationItem "{68E911AAA16B5480}" {
+     TargetStorage "Vest/Vest_PCGen_II_rifleman.et/tako/Pouch_FILBE_doubleM4_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911AAA16B2D6A}" {
+     Enabled 0
+     TargetStorage ""
+    }
+    ItemsInitConfigurationItem "{68E911AAA16B2D6F}" {
+     TargetStorage "Vest/Vest_PCGen_II_rifleman.et/m67/Pouch_Filbe_M67_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911AAA16B2D6D}" {
+     PrefabsToSpawn {
+      "{27AC9FC7F5E2BEEB}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEDP.et" "{319873694735DE0F}Prefabs/Weapons/Magazines/MK153/Container_MK153_NE.et"
+     }
+    }
+   }
+  }
  }
 }
