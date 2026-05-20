@@ -19,7 +19,7 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
      Prefab "{0960A1A0B891F243}Prefabs/Items/Equipment/Backpacks/Rucksack_P58_Large_Pack.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{A1F0CE61B4B043E7}Prefabs/Characters/Vests/Vest_NVA/Vest_NVA_GasmaskBag.et"
+     Prefab "{B2D127CB5D584A75}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_sharpshooter_Black.et"
     }
    }
   }
@@ -29,7 +29,7 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
      TargetStorage "Jacket/Jacket_US_BDU_02.et"
     }
     ItemsInitConfigurationItem "{68C72548BC70666C}" {
-     TargetStorage "Vest/Vest_NVA_GasmaskBag.et"
+     TargetStorage "Vest/Vest_SovietHarness_sharpshooter_Black.et/MagPouch_6Sh46/Pouch_Soviet_10rnd_SVD.et"
      PrefabsToSpawn {
       "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et" "{77595CB9F596E6AC}Prefabs/Weapons/Magazines/Magazine_762x54_SVD_10rnd_LPS.et"
      }

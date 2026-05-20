@@ -16,17 +16,17 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
      Prefab "{752C6BCDF74E4169}Prefabs/Items/Equipment/Backpacks/Backpack_Small.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{DF07EAE1BFF7B8CD}Prefabs/Characters/Vests/Vest_NVA/Variants/Vest_NVA_Assembled.et"
+     Prefab "{9344E8C1A7CABF8D}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_MG_Black.et"
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{68C7255EE950DD72}" {
-     TargetStorage "Vest/Vest_NVA_Assembled.et/Suspenders/Vest_NVA_Suspenders.et"
+     TargetStorage "Vest/Vest_SovietHarness_MG_Black.et"
     }
     ItemsInitConfigurationItem "{68C7254DCA32235E}" {
-     TargetStorage "Vest/Vest_NVA_Assembled.et/GasmaskBag/Vest_NVA_GasmaskBag.et"
+     TargetStorage "Vest/Vest_SovietHarness_MG_Black.et/GrenadePouch/Pouch_Soviet_100rnd_PKM.et"
      PrefabsToSpawn {
       "{A6737DA00653A39C}Prefabs/Weapons/Magazines/Box_762x54_PK_100rnd_Ball.et"
      }

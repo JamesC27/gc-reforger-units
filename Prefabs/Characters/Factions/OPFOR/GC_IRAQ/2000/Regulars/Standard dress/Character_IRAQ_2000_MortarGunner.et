@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Character_IRAQ_2000_Base.et" {
+SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Character_IRAQ_2000_Base.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
@@ -9,10 +9,10 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
    m_VariantData SCR_EditableEntityVariantData "{68CD564AF07ED431}" {
     m_aVariants {
      SCR_EditableEntityVariant "{68CD564AF13D7367}" {
-      m_sVariantPrefab "{37C39AAEC075E752}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Variants/Character_IRAQ_2000_MortarGunner1.et"
+      m_sVariantPrefab "{37C39AAEC075E752}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Variants/Character_IRAQ_2000_MortarGunner1.et"
      }
      SCR_EditableEntityVariant "{68CD564AF1177F7B}" {
-      m_sVariantPrefab "{5B97AE4E7CB1687C}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Variants/Character_IRAQ_2000_MortarGunner2.et"
+      m_sVariantPrefab "{5B97AE4E7CB1687C}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Variants/Character_IRAQ_2000_MortarGunner2.et"
      }
     }
    }
@@ -42,6 +42,7 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
      }
     }
     ItemsInitConfigurationItem "{68CD3BC18102852A}" {
+     TargetStorage "Pants/BDU_PANTS_OD.et"
      PrefabsToSpawn {
       "{B41607EAB58A4252}Prefabs/Items/Equipment/BalisticTable/BalisticTable_USSR.et"
      }
