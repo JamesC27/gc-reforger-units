@@ -11,12 +11,5 @@ SCR_ChimeraCharacter : "{A47689A7155AAFB8}Prefabs/Characters/Factions/OPFOR/GC_I
     }
    }
   }
-  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
-   InitialInventoryItems {
-    ItemsInitConfigurationItem "{68CD3BC18102852A}" {
-     TargetStorage "Pants/BDU_PANTS_OD.et"
-    }
-   }
-  }
  }
 }

@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{A47689A7155AAFB8}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Character_IRAQ_2000_MortarGunner.et" {
+SCR_ChimeraCharacter : "{A47689A7155AAFB8}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Character_IRAQ_2000_MortarGunner.et" {
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -21,9 +21,6 @@ SCR_ChimeraCharacter : "{A47689A7155AAFB8}Prefabs/Characters/Factions/OPFOR/GC_I
     }
     ItemsInitConfigurationItem "{68CD3BC18D69AAB0}" {
      TargetStorage "Vest/Vest_ChestRigSmall_1.et"
-    }
-    ItemsInitConfigurationItem "{68CD3BC18102852A}" {
-     TargetStorage "Pants/BDU_PANTS_OD.et"
     }
    }
   }
