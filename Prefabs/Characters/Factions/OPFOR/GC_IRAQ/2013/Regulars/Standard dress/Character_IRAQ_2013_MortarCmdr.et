@@ -65,7 +65,7 @@ SCR_ChimeraCharacter : "{E62D83DDA4DEDD33}Prefabs/Characters/Factions/OPFOR/GC_I
     }
     ItemsInitConfigurationItem "{6946DD14EBEE209C}" {
      PrefabsToSpawn + {
-      "{8B853CDD11BA916E}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8rnd_Ball.et" "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/US/Radio_ANPRC68.et" "{B41607EAB58A4252}Prefabs/Items/Equipment/BalisticTable/BalisticTable_USSR.et"
+      "{8B853CDD11BA916E}Prefabs/Weapons/Magazines/Magazine_9x18_PM_8rnd_Ball.et" "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/US/Radio_ANPRC68.et"
      }
     }
     ItemsInitConfigurationItem "{6946A164D8EA1DEA}" {
