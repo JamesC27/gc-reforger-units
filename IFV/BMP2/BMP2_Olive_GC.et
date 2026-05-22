@@ -1,6 +1,21 @@
 Tank : "{2FCF3A82322F7390}IFV/BMP2/BMP2_Olive.et" {
  ID "BBCBA43A9778AE21"
  components {
+  RHS_GroupMaterialController "{696B62B47616A65B}" {
+   m_aGroups {
+    RHS_MaterialGroupProperties "{696B62B46972E34B}" {
+     m_iTextureID 3
+    }
+    RHS_MaterialGroupProperties "{696B62B461D24BE4}" {
+     m_sGroupName "GROUP2"
+     m_iTextureID 5
+    }
+    RHS_MaterialGroupProperties "{696B62B4619B97A2}" {
+     m_sGroupName "GROUP3"
+     m_iTextureID 1
+    }
+   }
+  }
   SCR_BaseCompartmentManagerComponent "{20FB66C5DCB8DF72}" {
    CompartmentSlots {
     PilotCompartmentSlot PilotCompartment {
@@ -145,6 +160,20 @@ Tank : "{2FCF3A82322F7390}IFV/BMP2/BMP2_Olive.et" {
       SCR_DamagePassRule "{696B62B6306538A6}" {
       }
      }
+    }
+   }
+  }
+  VehicleWheeledSimulation "{731B26FCA2F19855}" {
+   Simulation Wheeled "{4D8B26DEA5F25978}" {
+    Engine Engine Engine {
+     MaxPower 230
+     MaxTorque 1100
+    }
+    Gearbox Gearbox Gearbox {
+     Forward {
+      8.5 6.4 4.76 3.2 2 1.2
+     }
+     Reverse 8.5
     }
    }
   }
@@ -621,21 +650,6 @@ Tank : "{2FCF3A82322F7390}IFV/BMP2/BMP2_Olive.et" {
    AnimInjection AnimationAttachmentInfo "{50B803EA8AD25BC8}" {
     AnimGraph "{847F34F75C70A43A}Assets/Vehicles/Wheeled/LAV25/workspaces/LAV25.agr"
     AnimInstance "{4D3CA2D353C4FB44}Assets/Vehicles/Wheeled/LAV25/workspaces/LAV25_player.asi"
-   }
-  }
-  RHS_GroupMaterialController "{696B62B47616A65B}" {
-   m_aGroups {
-    RHS_MaterialGroupProperties "{696B62B46972E34B}" {
-     m_iTextureID 3
-    }
-    RHS_MaterialGroupProperties "{696B62B461D24BE4}" {
-     m_sGroupName "GROUP2"
-     m_iTextureID 5
-    }
-    RHS_MaterialGroupProperties "{696B62B4619B97A2}" {
-     m_sGroupName "GROUP3"
-     m_iTextureID 1
-    }
    }
   }
  }
