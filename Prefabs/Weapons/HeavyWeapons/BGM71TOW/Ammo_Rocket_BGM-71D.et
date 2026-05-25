@@ -1,0 +1,16 @@
+Projectile : "{C0BDA86B5AA5648C}Prefabs/Weapons/Core/Ammo_Rocket_Base.et" {
+ ID "DA5C6308000CDEF2"
+ components {
+  MissileMoveComponent "{0EF36690881261EF}" {
+   InitSpeed 30
+   ThrustTime 1.6
+   ThrustForce 5000
+   ForwardAirFriction 0.2
+  }
+  TF_SACLOS_MissileMovement "{672B1EF73F10901E}" {
+   m_SteerSmooth 1.2
+   m_MaxSteerAngle 15
+   m_MaxAngularSpeed 5
+  }
+ }
+}
