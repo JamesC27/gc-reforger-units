@@ -9,6 +9,9 @@ SCR_ChimeraCharacter : "{6E2E128D68393FDF}Prefabs/Characters/Factions/BLUFOR/RHS
     LoadoutSlotInfo ArmoredVest {
      Prefab "{822B66CBF331F844}Prefabs/Characters/Vests/Vest_PCGen_II/Vest_PCGen_II_base.et"
     }
+    LoadoutSlotInfo Back {
+     Prefab "{0D5E78711F52F010}Prefabs/Items/Equipment/Radios/US/Radio_MARPATWD_GC_PRC119.et"
+    }
     LoadoutSlotInfo Vest {
      Prefab "{652A691C3404B99C}Prefabs/Characters/Vests/Vest_PCGen_II/Variants/Vest_PCGen_II_tako3.et"
     }
@@ -27,6 +30,12 @@ SCR_ChimeraCharacter : "{6E2E128D68393FDF}Prefabs/Characters/Factions/BLUFOR/RHS
     }
     ItemsInitConfigurationItem "{68E911ABFD0E2824}" {
      TargetStorage "Vest/Vest_PCGen_II_tako3.et/m67/Pouch_Filbe_M67_2.et"
+    }
+    ItemsInitConfigurationItem "{68E911ABFD0E2827}" {
+     TargetStorage "Pants/Pants_FROG_Trousers_Arid.et"
+     PrefabsToSpawn {
+      "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/US/Radio_ANPRC152A_OLD.et"
+     }
     }
    }
   }
