@@ -5,7 +5,7 @@ Vehicle : "{B120CDDBEF8DB007}Prefabs/Vehicles/Wheeled/M998/M1025_armed_base.et" 
    MultiSlots {
     MultiSlotConfiguration "{665C3221AB898DCC}" {
      SlotTemplate InventoryStorageSlot "{665C3221A92A8177}" {
-      Prefab "{C45AE68B74B6136D}Prefabs/Weapons/Tripods/BGM71_TOW/Pod_BGM-71_TOW.et"
+      Prefab "{DE25A434026D99AC}Prefabs/Weapons/Tripods/BGM71TOW/Part_BGM-71D_Launcher.et"
      }
      NumSlots 6
     }
