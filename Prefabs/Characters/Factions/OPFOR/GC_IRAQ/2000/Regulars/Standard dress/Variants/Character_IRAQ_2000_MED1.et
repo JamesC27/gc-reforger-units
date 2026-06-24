@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{77DB4A1E32B46BA0}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Character_IRAQ_2000_Medic.et" {
+SCR_ChimeraCharacter : "{77DB4A1E32B46BA0}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Character_IRAQ_2000_MED.et" {
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -11,6 +11,13 @@ SCR_ChimeraCharacter : "{77DB4A1E32B46BA0}Prefabs/Characters/Factions/OPFOR/GC_I
     }
     LoadoutSlotInfo Back {
      Prefab "{7AC107CA7AFC9B59}Prefabs/Items/Equipment/Backpacks/Backpack_Medical_Soviet.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{68C72549561C7B02}" {
+     TargetStorage "Back/Backpack_Medical_Soviet.et"
     }
    }
   }

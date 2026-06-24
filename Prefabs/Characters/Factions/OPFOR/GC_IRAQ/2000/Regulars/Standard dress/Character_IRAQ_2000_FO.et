@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Character_IRAQ_2000_Base.et" {
+SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Character_IRAQ_2000_Base.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
@@ -20,10 +20,10 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
    m_VariantData SCR_EditableEntityVariantData "{68CF06BFE4D4C349}" {
     m_aVariants {
      SCR_EditableEntityVariant "{68CF06BFE5832B2C}" {
-      m_sVariantPrefab "{D36C60EF12B01FF3}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Variants/Character_IRAQ_2000_FO1.et"
+      m_sVariantPrefab "{D36C60EF12B01FF3}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Variants/Character_IRAQ_2000_FO1.et"
      }
      SCR_EditableEntityVariant "{68CF06BFE556DD10}" {
-      m_sVariantPrefab "{BF38540FAE7490DD}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Variants/Character_IRAQ_2000_FO2.et"
+      m_sVariantPrefab "{BF38540FAE7490DD}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Variants/Character_IRAQ_2000_FO2.et"
      }
     }
    }
@@ -50,12 +50,6 @@ SCR_ChimeraCharacter : "{B304BA84C088D8AE}Prefabs/Characters/Factions/OPFOR/GC_I
      TargetStorage "Vest/Vest_Lifchik.et"
      PrefabsToSpawn {
       "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et"
-     }
-    }
-    ItemsInitConfigurationItem "{68CF06BFFE72A00E}" {
-     TargetStorage "Pants/BDU_PANTS_OD.et"
-     PrefabsToSpawn {
-      "{B41607EAB58A4252}Prefabs/Items/Equipment/BalisticTable/BalisticTable_USSR.et"
      }
     }
    }

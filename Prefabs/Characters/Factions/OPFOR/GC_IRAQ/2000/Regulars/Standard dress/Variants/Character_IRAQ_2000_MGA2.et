@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{C8F526D5C4758DC6}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Standard dress/Character_IRAQ_2000_MGA.et" {
+SCR_ChimeraCharacter : "{C8F526D5C4758DC6}Prefabs/Characters/Factions/OPFOR/GC_IRAQ/2000/Regulars/Standard dress/Character_IRAQ_2000_MGA.et" {
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -25,7 +25,7 @@ SCR_ChimeraCharacter : "{C8F526D5C4758DC6}Prefabs/Characters/Factions/OPFOR/GC_I
     ItemsInitConfigurationItem "{68CF06B814C36F86}" {
      TargetStorage "Vest/Vest_Lifchik.et"
      PrefabsToSpawn {
-      "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et"
+      "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{E039E897BD5A339E}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Ball.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et" "{D7D38B4E269417F8}Prefabs/Weapons/Magazines/AK/BC_Magazine_762x39_AK_30rnd_Tracer.et"
      }
     }
     ItemsInitConfigurationItem "{68CF06B80EE315F4}" {

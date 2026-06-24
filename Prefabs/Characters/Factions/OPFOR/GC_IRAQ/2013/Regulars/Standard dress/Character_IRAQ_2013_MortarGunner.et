@@ -61,9 +61,6 @@ SCR_ChimeraCharacter : "{E62D83DDA4DEDD33}Prefabs/Characters/Factions/OPFOR/GC_I
     ItemsInitConfigurationItem "{6946A164D8EA1DE8}" {
     }
     ItemsInitConfigurationItem "{6946DD14EBEE209C}" {
-     PrefabsToSpawn + {
-      "{B41607EAB58A4252}Prefabs/Items/Equipment/BalisticTable/BalisticTable_USSR.et"
-     }
     }
     ItemsInitConfigurationItem "{6946A164D8EA1DEA}" {
      TargetStorage "ArmoredVest/Vest_OTV_CB.et"
