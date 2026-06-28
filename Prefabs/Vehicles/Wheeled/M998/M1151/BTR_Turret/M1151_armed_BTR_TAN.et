@@ -1,4 +1,4 @@
-Vehicle : "{5F12D6FB80A56688}Prefabs/Vehicles/Wheeled/M998/M1151_armed_BMP.et" {
+Vehicle : "{5F12D6FB80A56688}Prefabs/Vehicles/Wheeled/M998/M1151/BMP_Turret/M1151_armed_BMP.et" {
  ID "BBCBA43A9778AE21"
  components {
   MeshObject "{51DAA09FEFBFC0E7}" {
@@ -7,6 +7,11 @@ Vehicle : "{5F12D6FB80A56688}Prefabs/Vehicles/Wheeled/M998/M1151_armed_BMP.et" {
      SourceMaterial "Assets/Vehicles/Wheeled/M998/Data/HMMWV_Body"
      AssignedMaterial "{ECFB0A86053379D8}Assets/Vehicles/Wheeled/M998/Data/HMMWV_Body_Tan.emat"
     }
+   }
+  }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    Name "TAN M1151 BTR"
    }
   }
   SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
