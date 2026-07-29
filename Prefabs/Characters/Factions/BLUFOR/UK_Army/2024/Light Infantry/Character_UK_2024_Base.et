@@ -57,7 +57,7 @@ SCR_ChimeraCharacter : "{542CBB6908CA71D8}Prefabs/Characters/Factions/BLUFOR/UK_
     ItemsInitConfigurationItem "{6574E493A8452458}" {
      TargetStorage "Pants/PCS_Trousers_MTP.et"
      PrefabsToSpawn {
-      "{389ACBD8C4991F74}Prefabs/Items/Equipment/Radios/UK/Squad Radio/Radio_H4855_PRR.et"
+      "{47E3B8A72FB9F477}Prefabs/Items/Equipment/Radios/UK/Squad Radio/Radio_H4855_PRR.et"
      }
     }
     ItemsInitConfigurationItem "{658F01CD7D92ED96}" {
