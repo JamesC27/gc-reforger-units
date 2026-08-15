@@ -54,7 +54,7 @@ SCR_ChimeraCharacter : "{4AF2023E868540E7}Prefabs/Characters/Factions/BLUFOR/UK_
      Prefab "{E57C6FC2DEF86528}Prefabs/Characters/Backpacks/Daysacks/Camelbak_BFM/Camelbak_BFM_MC.et"
     }
     LoadoutSlotInfo Vest {
-     Prefab "{26918251753A100D}Prefabs/Characters/Vests/Belts/Webbing/JayJays_Gen4/Variants/Webbing_JayJays_Gen4_Rifleman_01.et"
+     Prefab "{D63296EBAC577F98}Prefabs/Characters/Vests/Belts/Webbing/JayJays_Gen4/Variants/Webbing_JayJays_Gen4_Commander_02.et"
     }
     LoadoutSlotInfo HandWear {
      Prefab "{B9FA26F5990CDEDD}Prefabs/Characters/Handwear/Gloves_MechanixMpact/Gloves_mpack_MC.et"
@@ -90,25 +90,25 @@ SCR_ChimeraCharacter : "{4AF2023E868540E7}Prefabs/Characters/Factions/BLUFOR/UK_
      }
     }
     ItemsInitConfigurationItem "{610CC3129E7848BC}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/MagPouch/Pouch_JayJays_MagazineDouble_1_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/MagPouch/Pouch_JayJays_Gen4_Magazine_01_Alt.et"
      PrefabsToSpawn {
       "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et" "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et"
      }
     }
     ItemsInitConfigurationItem "{610CC3129FF70707}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/MagPouch2/Pouch_JayJays_MagazineDouble_2_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/MagPouch2/Pouch_JayJays_Gen4_Magazine_02.et"
      PrefabsToSpawn {
       "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et" "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et"
      }
     }
     ItemsInitConfigurationItem "{610CC312DBF11ACA}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/Utility1/Pouch_JayJays_Utility1_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/UtilPouch2/Pouch_JayJays_Gen4_Utility_02_Alt.et"
      PrefabsToSpawn {
       "{68FE5703457F2FF5}Prefabs/Items/Equipment/Radios/UK/Radio_ANPRC163.et" "{47E3B8A72FB9F477}Prefabs/Items/Equipment/Radios/Radio_ANPRC343_PRR_GC.et"
      }
     }
     ItemsInitConfigurationItem "{610CC31278A75ED6}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/Utility2/Pouch_JayJays_Utility2_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/CommanderPouch1/Pouch_JayJays_Gen4_Commanders_Alt.et"
      PrefabsToSpawn {
       "{F20D1122BC5CD9F2}Prefabs/Weapons/Magazines/glock_magazine/Magazine_9x19_Glock_17rnd.et" "{F20D1122BC5CD9F2}Prefabs/Weapons/Magazines/glock_magazine/Magazine_9x19_Glock_17rnd.et"
      }
@@ -117,19 +117,19 @@ SCR_ChimeraCharacter : "{4AF2023E868540E7}Prefabs/Characters/Factions/BLUFOR/UK_
      TargetStorage "Pants/Crye_G4_Combat_Pants_MC.et"
     }
     ItemsInitConfigurationItem "{6488D7647B28B328}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/Utility3/Pouch_JayJays_Utility3_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/UtilPouch3/Pouch_JayJays_Gen4_Utility_04.et"
      PrefabsToSpawn {
       "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et"
      }
     }
     ItemsInitConfigurationItem "{6488D7647B28B319}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/Utility4/Pouch_JayJays_Utility4_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/UtilPouch4/Pouch_JayJays_Gen4_Utility_01_v2.et"
      PrefabsToSpawn {
       "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et"
      }
     }
     ItemsInitConfigurationItem "{6488D7647B28B31E}" {
-     TargetStorage "Vest/Webbing_JayJays_Gen4_Rifleman_01.et/MagPouch3/Pouch_JayJays_MagazineDouble_2_MC.et"
+     TargetStorage "Vest/Webbing_JayJays_Gen4_Commander_02.et/CommanderPouch1/Pouch_JayJays_Gen4_Commanders_Alt.et"
      PrefabsToSpawn {
       "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et" "{156BC976EA1404DF}Prefabs/Weapons/Magazines/EMAG_FDE_556x45_AP.et"
      }
@@ -151,13 +151,6 @@ SCR_ChimeraCharacter : "{4AF2023E868540E7}Prefabs/Characters/Factions/BLUFOR/UK_
      TargetPurpose 64
      PrefabsToSpawn {
       "{472E5AE5D061A0DA}Prefabs/Items/Equipment/Accessories/Patches/TRF_DZ/TRF_3CB_Old.et" "{6EFFC22A96078FFA}Prefabs/Items/Equipment/Accessories/Patches/TRF_DZ/Tab_RMC_Old_Red.et" "{90587B4710A3D0D6}Prefabs/Items/Equipment/Accessories/Patches/Morale/Morale_UnionJack_Green.et" "{6EFFC22A96078FFA}Prefabs/Items/Equipment/Accessories/Patches/TRF_DZ/Tab_RMC_Old_Red.et"
-     }
-    }
-    ItemsInitConfigurationItem "{65C2BC419F2E7010}" {
-     TargetStorage "ArmoredVest/Vest_Crye_CPC_Rifleman_01_FDE.et"
-     TargetPurpose 64
-     PrefabsToSpawn {
-      "{96B08CC31F2BF77F}Prefabs/Items/Equipment/Accessories/Patches/Morale/Morale_UnionJack_Black.et"
      }
     }
    }
