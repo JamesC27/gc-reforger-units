@@ -84,13 +84,6 @@ SCR_ChimeraCharacter : "{BE42B6E6DE18536B}Prefabs/Characters/Factions/BLUFOR/UK_
       "{4BA48D3B0E53DF91}Prefabs/Items/Equipment/Backpacks/Rucksack_84mm_MAW_Carrier.et"
      }
     }
-    ItemsInitConfigurationItem "{6A19021361EAF816}" {
-     TargetStorage "Hat/Helmet_Virtus_01.et/MeshCover/Helmet_Virtus_Cover_01.et"
-     TargetPurpose 64
-     PrefabsToSpawn {
-      "{57D3F3B6DAE5A663}Prefabs/Characters/HeadGear/Helmets/Helmet_Virtus/Covers/Helmet_Virtus_Scrim_Strips_01.et"
-     }
-    }
    }
   }
  }

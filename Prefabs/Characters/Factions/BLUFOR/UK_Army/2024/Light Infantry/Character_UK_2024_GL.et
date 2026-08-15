@@ -21,6 +21,9 @@ SCR_ChimeraCharacter : "{BE42B6E6DE18536B}Prefabs/Characters/Factions/BLUFOR/UK_
     LoadoutSlotInfo ArmoredVest {
      Prefab "{611DC1CA71B4FF08}Prefabs/Characters/Vests/Body_Armour/Vest_Virtus_STV/Variants/Vest_Virtus_STV_Rifleman_03.et"
     }
+    LoadoutSlotInfo Back {
+     Prefab "{091FD27A4C4A6177}Prefabs/Characters/Backpacks/Daysacks/Defcon_Ares/Defcon_Ares_MTP.et"
+    }
     LoadoutSlotInfo Vest {
      Prefab "{7489DAB2FF83543A}Prefabs/Characters/Vests/Belts/Webbing/Virtus_H_Rig/Variants/Webbing_Virtus_H_Rig_Rifleman_02.et"
     }
