@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{94DB2F66DDCD8783}Prefabs/Characters/Factions/BLUFOR/UK_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Company 2IC"
+    Icon "{E469CC52942908B8}UI/Textures/EditableEntities/Characters/BritishRanks/EditableEntity_Character_British_CPT.edds"
    }
   }
   CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
@@ -51,14 +52,8 @@ SCR_ChimeraCharacter : "{94DB2F66DDCD8783}Prefabs/Characters/Factions/BLUFOR/UK_
      PrefabsToSpawn {
      }
     }
-    ItemsInitConfigurationItem "{65C2BC45F347AF95}" {
-     TargetStorage "Back/TYR_TT_Huron_MC.et"
-     PrefabsToSpawn {
-     }
-    }
     ItemsInitConfigurationItem "{6488D76467B90F4B}" {
-     PrefabsToSpawn {
-      "{848E4E853151A37A}Prefabs/Weapons/Grenades/L109/Grenade_L109A2_01.et" "{09BCBA657FCC1C71}Prefabs/Weapons/Grenades/L132/Smoke_L132A2.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{6488D76467B90F01}" {
@@ -69,6 +64,11 @@ SCR_ChimeraCharacter : "{94DB2F66DDCD8783}Prefabs/Characters/Factions/BLUFOR/UK_
     ItemsInitConfigurationItem "{6488D75AD42345BE}" {
      PrefabsToSpawn {
       "{B1798B0F1258B765}Prefabs/Items/Equipment/Navigation/DAGR/DAGR.et" "{643AB339663E92F7}Prefabs/Items/Equipment/Nightvision/MS2000/Marker_MS2000.et" "{9C1ED9ACDA865791}Prefabs/Weapons/Grenades/L132/Smoke_L152A1_Green.et" "{975C2B4A2B78B0FD}Prefabs/Weapons/Grenades/L132/Smoke_L154A1_Red.et" "{21CBEB00AC9073AE}Prefabs/Weapons/Grenades/L132/Smoke_L157A1_Purple.et"
+     }
+    }
+    ItemsInitConfigurationItem "{65C2BC45F347AF95}" {
+     TargetStorage "Back/TYR_TT_Huron_MC.et"
+     PrefabsToSpawn {
      }
     }
     ItemsInitConfigurationItem "{65C2BC458A9C0781}" {

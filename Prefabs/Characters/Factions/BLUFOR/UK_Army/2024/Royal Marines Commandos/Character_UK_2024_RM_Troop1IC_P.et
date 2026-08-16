@@ -4,6 +4,7 @@ SCR_ChimeraCharacter : "{94DB2F66DDCD8783}Prefabs/Characters/Factions/BLUFOR/UK_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "Troop Commander"
+    Icon "{3A41A8F543EF520B}UI/Textures/EditableEntities/Characters/BritishRanks/EditableEntity_Character_British_LT.edds"
    }
   }
   CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
