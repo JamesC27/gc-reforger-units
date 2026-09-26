@@ -2,7 +2,7 @@ SCR_ChimeraCharacter : "{0AA8FB3C9DDBE719}Prefabs/Characters/Factions/INDFOR/GC_
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{9DE7A9D5E792E720}Prefabs/Weapons/Rifles/ARY_G3/ARY_G3_SG1/ARY_Rifle_G3_SG1.et"
+   WeaponTemplate "{0A6516EBE1071D42}Prefabs/Weapons/Rifles/ARY_G3/ARY_G3_41/Variants/Quality/ARY_Rifle_G3_41_Bipod_Quality_WideBlack_x4.et"
   }
  }
 }

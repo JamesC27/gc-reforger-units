@@ -2,7 +2,7 @@ SCR_ChimeraCharacter : "{3BE9C8745851DFB9}Prefabs/Characters/Factions/INDFOR/GC_
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{7130D1CBF5729265}Prefabs/Weapons/Rifles/ARY_G3/ARY_G3_G3A4/Variants/Quality/ARY_Rifle_G3A4_Quality_HK79_Black.et"
+   WeaponTemplate "{CF7879D6698DDD50}Prefabs/Weapons/Rifles/ARY_G3/ARY_G3_G3A4/Variants/Quality/ARY_Rifle_G3A4_Quality_HK79_Black_x4.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
@@ -40,6 +40,11 @@ SCR_ChimeraCharacter : "{3BE9C8745851DFB9}Prefabs/Characters/Factions/INDFOR/GC_
       "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et" "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et"
      }
     }
+    ItemsInitConfigurationItem "{655D480E1DD25BA3}" {
+     PrefabsToSpawn {
+      "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et" "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et"
+     }
+    }
     ItemsInitConfigurationItem "{6A601C042E70F077}" {
      TargetStorage "Vest/Vest_6b23_pouches_base.et/slot/Pouch_Ratnik_ak_pouch_new_1.et"
      PrefabsToSpawn {
@@ -54,11 +59,6 @@ SCR_ChimeraCharacter : "{3BE9C8745851DFB9}Prefabs/Characters/Factions/INDFOR/GC_
     }
     ItemsInitConfigurationItem "{6A601C0428B82E4F}" {
      TargetStorage "Vest/Vest_6b23_pouches_base.et/slot3/Pouch_Ratnik_ak_pouch_new_3.et"
-     PrefabsToSpawn {
-      "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et" "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et"
-     }
-    }
-    ItemsInitConfigurationItem "{655D480E1DD25BA3}" {
      PrefabsToSpawn {
       "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et" "{DA54E9B604E81A17}Prefabs/Weapons/Magazines/ARY_G3/20Rnd_Steel/ARY_Magazine_762x51_G3_20Rnd_Surplus_Mixed.et"
      }
